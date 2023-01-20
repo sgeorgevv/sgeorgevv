@@ -1,4 +1,4 @@
-#Hi there, I'm George 👋
+# Hi there, I'm George 👋
 ### A Developer, An Engineer, and a Leader
 
 🤔 I’m looking for help with finding a meaningful job in Software Development, and making th long awaited switch from engineering to tech.
