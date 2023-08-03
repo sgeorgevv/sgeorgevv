@@ -1,16 +1,19 @@
-<p align="center">
-  <h1> Hey there, I'm George.</h1>
-</p>
-
-<p align="center">
+<div style="text-align: center;">
+  <h1 style="color: #444;">Hey there, I'm George.</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=2000&color=ffffff&center=true&vCenter=true&width=435&lines=A+Backend+Developer +%f0%9f%99%8c" alt="Typing SVG">
-</p>
+</div>
 
-<h1 align="left">🚀 About Me</h1>
+<div style="text-align: left;">
+  <h1 style="color: #444;">🚀 About Me</h1>
+</div>
 
-<p align="justify"> A jack of all trades! I'm a Civil, Structural, and Software Engineer working as an Engineering Project Manager.</p>
+<div style="text-align: justify;">
+  <p style="margin-bottom: 20px;">I'm a bit of a Swiss Army knife in the world of engineering! Whether it's Civil, Structural, or Software Engineering, I'm seasoned in it all. Now, I'm putting those diverse skills to work as an Engineering Project Manager. It's a fun mix, and I love finding new ways to blend these different fields to create something cool and efficient.</p>
+</div>
 
-<h1 align="left">Lets show off a bit:</h1>
+<div style="text-align: left;">
+  <h1 style="color: #444;">Lets show off a bit:</h1>
+</div>
 
 ### ☕️Languages
 
