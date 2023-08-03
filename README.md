@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <h1 style="color: #444;">Hey there, I'm George.</h1>
-  <img style="text-align: center;" src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=2000&color=ffffff&center=true&vCenter=true&width=435&lines=A+Backend+Developer +%f0%9f%99%8c" alt="Typing SVG">
+  <img style="text-align: center;" src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=2000&color=ffffff&center=true&vCenter=true&width=435&lines=A+Developer+An+Engineer+And+A+Leader +%f0%9f%99%8c" alt="Typing SVG">
 </div>
 
 <div style="text-align: left;">
