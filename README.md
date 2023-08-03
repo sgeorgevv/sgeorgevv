@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khot-aditya/Khot-Aditya/main/banner.png" width="100%" alt="Banner">
+  <img src="https://raw.githubusercontent.com/khot-aditya/George-Bachour/main/banner.png" width="100%" alt="Banner">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=F76F0C&center=true&vCenter=true&width=435&lines=I+Am+A+Web+Developer.+%F0%9F%98%8D" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=F76F0C&center=true&vCenter=true&width=435&lines=I+Am+A+Backend+Developer.+%F0%9F%98%8D" alt="Typing SVG">
 </p>
 
 <h1 align="left">🚀 About Me</h1>
