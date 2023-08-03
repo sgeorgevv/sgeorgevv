@@ -11,7 +11,7 @@
 </div>
 
 <div style="text-align: justify;">
-  <p style="margin-bottom: 20px;">I'm a bit of a Swiss Army knife in the world of engineering! Whether it's Civil, Structural, or Software Engineering, I'm seasoned in it all. Now, I'm putting those diverse skills to work as an Engineering Project Manager, but I've come to realize that my true passion is in Backend Development. As much as I enjoy my current role in Engineering Management, I'm looking to pursue that passion. Please find me here if you have any leads: </p>	<a href="https://www.linkedin.com/in/george-bachour/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+  <p style="margin-bottom: 20px;">I'm like the Swiss Army knife of engineering, equipped with a tool for every need! My experience ranges from Civil and Structural to Software Engineering, and I've honed these diverse skills over the years. Lately, though, I've discovered a burning passion for Backend Development. While I relish my current managerial role, I'm eager to follow this newfound interest. If you've got any opportunities or leads, don't hesitate to connect with me here: </p>	<a href="https://www.linkedin.com/in/george-bachour/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 </div>
 
 <div style="text-align: left;">
